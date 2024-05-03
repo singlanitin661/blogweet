@@ -3,9 +3,9 @@ import "./Contact.css"
 const Contact=()=>{
     return (
         <div className="Contactus">
-            <h1>Contact Us</h1>
+            <h1 >Contact Us</h1>
             <hr/>
-            <p>
+            <p className="contact-description">
             Please fill out the form below to get in touch with us:
              </p>
             <form>

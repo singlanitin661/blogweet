@@ -187,11 +187,18 @@ body {
   padding: 5px 10px;
   border-radius: 12px;
 }
+.SidebarOnDesktop .login-button-home{
+  transition: all 0.4s ease;
+  padding: 5px auto;
+  border-radius: 12px;
+  position: relative;
+  left: 2.5rem;
+  bottom: 0.1rem;
+}
 
 .SidebarOnDesktop .login-button:hover{
   background-color: #fff;
   color: #000;
-
 }
 
 .SidebarOnDesktop .profile_content {
