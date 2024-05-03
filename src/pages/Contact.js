@@ -5,7 +5,7 @@ const Contact=()=>{
         <div className="Contactus">
             <h1 >Contact Us</h1>
             <hr/>
-            <p className="contact-description">
+            <p className="contact-descriptio">
             Please fill out the form below to get in touch with us:
              </p>
             <form>

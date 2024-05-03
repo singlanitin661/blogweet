@@ -54,7 +54,10 @@ textarea {
     text-align: center;
   } */
   h1 {
-    font-size: 2rem;
+    font-size: 3rem;
+    font-weight: normal;
+    
+    /* font-weight: bold; */
   }
   input[type="text"],
   input[type="email"],
